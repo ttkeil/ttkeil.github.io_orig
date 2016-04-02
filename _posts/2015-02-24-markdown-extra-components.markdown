@@ -20,7 +20,6 @@ You can pick as item to see how to apply in markdown.
 - [Especial Breaker](#especial-breaker)
 
 #### External Elements
-- [Gist](#gist)
 - [Codepen](#codepen)
 - [Slideshare](#slideshare)
 - [Videos](#videos)
@@ -123,11 +122,6 @@ You can add a especial *hr* to your text.
 
 You can add Gists from github.
 
-{% highlight raw %}
-{ % gist sergiokopplin/a344e39fef90e453c22815493475937c % }
-{% endhighlight %}
-
-{% gist sergiokopplin/a344e39fef90e453c22815493475937c %}
 
 ---
 
