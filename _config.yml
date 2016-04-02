@@ -22,25 +22,26 @@ highlighter: rouge
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, set to false
-disqus: mydisqus
+disqus: false
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
+# facebook: myfacebook
 twitter: ttkeil
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
+# youtube: myyoutube
+# spotify: myspotify
 github: ttkeil
-medium: medium
-email: myemail@gmail.com
+medium: ttkeil
+email: hello@timkeil.com
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
 width: normal
+# options: safe:true
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
